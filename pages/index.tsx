@@ -57,12 +57,12 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
               <span className="absolute left-0 right-0 bottom-0 h-[400px] bg-gradient-to-b from-black/0 via-black to-black"></span>
             </div>
             <Logo />
-            <h1 className="mt-6 mb-2 text-base font-bold uppercase tracking-widest">
+            <h1 className="mt-4 mb-2 text-base font-bold uppercase tracking-widest">
               Onleashing Talent, Celebrating Triumph – GNDEC Athletic Meet
             </h1>
-            <p className="max-w-[30ch] text-white/75 sm:max-w-[32ch]">
+            <p className="max-w-[30ch] text-white/50 sm:max-w-[32ch]">
               
-              Join us as we celebrate the spirit of competition and teamwork at the Athletic Meet of GNDEC College. A day filled with unforgettable moments and Witness the dedication, effort, and passion of our athletes, striving for victory in every event.
+              Join us as we celebrate the spirit of competition at the Athletic Meet of GNDEC College. A day filled with unforgettable moments and Witness the dedication, effort, and passion of our athletes, striving for victory in every event.
             </p>
             <a
               className="pointer z-10 mt-6 cursor-pointer rounded-lg border border-white bg-white px-3 py-2 text-sm font-semibold text-black transition hover:bg-white/10 hover:text-white md:mt-4"
