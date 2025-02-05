@@ -103,7 +103,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
       <footer className="p-6 text-center text-white/80 sm:p-12">
         MADE BY {" "}
         <a
-          href="#"
+          href="https://info.gndecathletix.games/#DevTeam"
           target="_blank"
           className="font-semibold hover:text-white"
           rel="noreferrer"
